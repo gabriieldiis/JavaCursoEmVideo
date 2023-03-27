@@ -1,0 +1,10 @@
+package aula02;
+
+public class exercicioaula002 {
+	public static void main(String[] args) {
+		Software c1 = new Software() {
+			c1.fonecedor = "Microsoft";
+			c1
+		}
+	}
+}

@@ -1,0 +1,22 @@
+package aula02;
+
+public class Software {
+	String  fornecedor;
+	int  valor;
+	boolean ativo;
+	
+	void status(){
+		System.out.println("Fornecedor: " +  this.fornecedor);
+		System.out.println("Valor: " +  this.valor);
+		
+	}
+	void ativo(){
+		
+	}
+
+	void desativado(){
+		
+	}
+	
+}
+

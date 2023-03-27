@@ -1,0 +1,10 @@
+package aula02;
+
+public class exercicioaula002 {
+	public static void main(String[] args) {
+		Software s1 = new Software() {
+			s1 fornecedor = "Microsoft";
+			s1
+		}
+	}
+}

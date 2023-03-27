@@ -1,0 +1,7 @@
+package OlaMundo;
+
+public class olamunfo {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}

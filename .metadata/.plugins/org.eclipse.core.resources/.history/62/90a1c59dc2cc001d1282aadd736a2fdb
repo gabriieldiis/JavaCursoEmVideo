@@ -1,0 +1,30 @@
+package aula02;
+
+public class Software {
+	String  fornecedor;
+	int  valor;
+	boolean ativo;
+	
+	void status(){
+		System.out.println("Fornecedor: " +  this.fornecedor);
+		System.out.println("Valor: " +  this.valor);
+		
+	}
+	
+	void utilizar() {
+		if ativo(this.ativo == true) {
+			System.out.println("Pronto para ativacao");
+		} else {
+			System.out.println("Nao esta pronto para ativacao");
+		}
+	}
+	void ativo(){
+		this.ativo = true;
+	}
+
+	void desativado(){
+		this.ativo = false;
+	}
+	
+}
+

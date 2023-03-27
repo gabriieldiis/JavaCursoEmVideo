@@ -1,0 +1,20 @@
+package aula02;
+
+public class Software {
+	String  fornecedor;
+	int  valor;
+	boolean ativo;
+	
+	void status(){
+		
+	}
+	void ativo(){
+		
+	}
+
+	void desativado(){
+		
+	}
+	
+}
+
