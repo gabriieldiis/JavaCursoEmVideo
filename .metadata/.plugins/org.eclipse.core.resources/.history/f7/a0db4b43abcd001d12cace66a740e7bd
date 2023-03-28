@@ -23,8 +23,7 @@ public class Caderno {
 	void comprado() {
 		if(this.escrever == true) {
 			System.out.println("Caderno comprado!");
-		}
-		else{
+		}else(this.escrever == false) {
 			System.out.println("Seu caderno não foi comprado");
 		}
 	}

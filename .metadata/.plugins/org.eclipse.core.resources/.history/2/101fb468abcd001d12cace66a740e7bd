@@ -8,8 +8,7 @@ public class InstanciandoCaderno {
 		 c1.paginas = 120;
 		 c1.tamanho = "A3";
 		 c1.valor = 00.00f;
-		 c1.comprado();
-		 c1.naoestudar();
+		 c1.estudar();
 		 c1.status();
 	}
 
