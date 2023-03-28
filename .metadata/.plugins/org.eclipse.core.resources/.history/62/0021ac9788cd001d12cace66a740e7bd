@@ -1,0 +1,23 @@
+package aula02;
+
+public class Caderno {
+	String modelo;
+	String cor;
+	String tamanho;
+	int paginas;
+	float valor;
+	boolean escrever;
+
+
+	void comprado() {
+	
+}
+
+	void naoestudar() {
+		
+	}
+	
+	void estudar() {
+		
+	}
+}

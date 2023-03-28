@@ -11,7 +11,7 @@ public class exercicioaula002 {
 		}
 		
 		Software c2 = new Software();{
-			c2.fornecedor = "Kaspersky";
+			c2.fornecedor = "Kaspersky"
 		}
 	}
 }

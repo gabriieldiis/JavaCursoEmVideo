@@ -9,9 +9,5 @@ public class exercicioaula002 {
 			c1.status();
 			c1.utilizar();
 		}
-		
-		Software c2 = new Software();{
-			c2.fornecedor = "Kaspersky";
-		}
 	}
 }
