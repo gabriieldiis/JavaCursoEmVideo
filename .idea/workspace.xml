@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a759f55-d113-4220-ae12-47597e41a192" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/src/aula02/Caneta004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/src/aula02/InstanciandoCaneta004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/src/aula02/IntanciandoCaneta003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/src/exerciciosaula002/InstanciandoCaderno001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/Aula02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/Caderno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/InstanciandoCaderno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/Software.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/aula02/exercicioaula002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/exerciciosaula002/Caderno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/src/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/Aula02.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/Aula02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/Caderno.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/Caderno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/Caneta.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/Caneta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/InstanciandoCaderno.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/InstanciandoCaderno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/Software.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/Software.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/aula02/exercicioaula002.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/aula02/exercicioaula002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/src/aula02/InstanciandoCaderno.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/src/aula02/InstanciandoCaderno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/src/exerciciosaula002/Caderno.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/src/exerciciosaula002/Caderno001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/src/exerciciosaula002/InstanciandoCaderno.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula03/src/exerciciosaula002/InstanciandoCaderno.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NhbmPhKKXUoj0aBza0GSh9YKnb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_gabrield\Java\JavaCursoEmVideo\aula02\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InstanciandoCaneta004">
+    <configuration name="InstanciandoCaneta004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.InstanciandoCaneta004" />
+      <module name="aula02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntanciandoCaneta003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.IntanciandoCaneta003" />
+      <module name="aula02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicioaula002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.exercicioaula002" />
+      <module name="aula02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InstanciandoCaneta004" />
+        <item itemvalue="Application.IntanciandoCaneta003" />
+        <item itemvalue="Application.aula02.exercicioaula002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a759f55-d113-4220-ae12-47597e41a192" name="Changes" comment="" />
+      <created>1680119420831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680119420831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
